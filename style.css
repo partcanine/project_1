@@ -1,0 +1,333 @@
+.box-one {
+    background-color: #63534A;
+    position: relative;
+    width: 1788px;
+    height: 1285px;
+    border-radius: 25px;
+    text-align: justify;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 140px;
+    margin-bottom: 40px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.box-desc {
+    inline-size: 716px;
+}
+
+.small_curl_1-1 {
+    position: absolute;
+    top: 35px;
+    right: -172px;
+}
+
+.textiles {
+    position: absolute;
+    top: 60px;
+    right: 60px;
+
+    transition: all 0.3s;
+}
+
+.textiles:hover {
+    text-shadow: 0 0 10px #A6A6A6, 0 0 20px #A6A6A6, 0 0 30px #A6A6A6;
+}
+
+.sewing {
+    position: absolute;
+    top: 250px;
+    right: -80px;
+
+    transition: all 0.3s;
+}
+
+.sewing:hover {
+    text-shadow: 0 0 10px #A6A6A6, 0 0 20px #A6A6A6, 0 0 30px #A6A6A6;
+}
+
+.embroidery {
+    position: absolute;
+    top: 460px;
+    right: 60px;
+
+    transition: all 0.3s;
+}
+
+.embroidery:hover {
+    text-shadow: 0 0 10px #A6A6A6, 0 0 20px #A6A6A6, 0 0 30px #A6A6A6;
+}
+
+.crochet {
+    position: absolute;
+    top: 670px;
+    right: -80px;
+
+    transition: all 0.3s;
+}
+
+.crochet:hover {
+    text-shadow: 0 0 10px #A6A6A6, 0 0 20px #A6A6A6, 0 0 30px #A6A6A6;
+}
+
+.box-two {
+    background-color: #63534A;
+    position: relative;
+    width: 1788px;
+    height: 700px;
+    border-radius: 25px;
+    text-align: justify;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.box-num-letters {
+    inline-size: 1331px;
+}
+
+.medium_curl {
+    position: absolute;
+    top: -145px;
+    right: 20px;
+}
+
+.small_curl_1-2 {
+    position: absolute;
+    top: 645px;
+    left: 825px;
+}
+
+.box-three {
+    background-color: #63534A;
+    position: relative;
+    width: 1788px;
+    height: 5785px;
+    border-radius: 25px;
+    text-align: justify;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.box-craft {
+    inline-size: 1321px;
+}
+
+.curly_element_1-1 {
+    position: absolute;
+    top: 242px;
+    right: 120px;
+    scale: 135%;
+}
+
+.curly_element_1-2 {
+    position: absolute;
+    top: 1895px;
+    right: 120px;
+    scale: 135%;
+}
+
+.curly_element_1-3 {
+    position: absolute;
+    top: 3605px;
+    right: 120px;
+    scale: 135%;
+}
+
+.sewing_needle-1 {
+    position: absolute;
+    scale: 24%;
+    bottom: 864px;
+    left: -240px;
+}
+
+.sewing_needle-2 {
+    position: absolute;
+    scale: 24%;
+    bottom: 754px;
+    left: -240px;
+}
+
+.sewing_needle-3 {
+    position: absolute;
+    scale: 24%;
+    bottom: 648px;
+    left: -240px;
+}
+
+.sewing_needle-4 {
+    position: absolute;
+    scale: 24%;
+    bottom: 535px;
+    left: -240px;
+}
+
+.sewing_needle-5 {
+    position: absolute;
+    scale: 24%;
+    bottom: 426px;
+    left: -240px;
+}
+
+.box-four {
+    background-color: #63534A;
+    position: relative;
+    width: 1788px;
+    height: 1685px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    text-align: justify;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 40px;
+    margin-bottom: 0px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.curly_border {
+    position: absolute;
+    scale: 33%;
+    bottom: -1560px;
+    right: -55px;
+}
+
+.box-events {
+    inline-size: 1023px;
+}
+
+h1 {
+    color:#29221E;
+    font-family: 'Jacquard 12';
+    font-size: 228px;
+    padding-top: 10px;
+    margin-bottom: 30px;
+    margin-top: 0px;
+}
+
+h2 {
+    color: #29221E;
+    font-family: 'Jacquard 12';
+    font-size: 132px;
+    padding-top: 30px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+
+h3 {
+    color: #9B8476;
+    font-family: 'Jacquard 12';
+    font-size: 96px;
+    text-decoration: underline;
+    padding-top: 10px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+
+h4 {
+    color: #D9D9D9;
+    font-family: 'Averia Sans Libre';
+    font-size: 42px;
+    padding-top: 10px;
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+
+#navbar {
+    background-color: #D9D9D9;
+    width: 1868px;
+    height: 75px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    text-align: center;
+    position: fixed;
+    padding-top: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 60px;
+    z-index: 1000;
+}
+
+a {
+    padding-left: 152.72px;
+    padding-right: 152.72px;
+    padding-top: 60px;
+    font-family: 'Averia Sans Libre';
+    font-size: 36px;
+    color: #403630; 
+    text-decoration: none;
+
+    transition: all 0.4s;
+}
+
+a:hover {
+    text-shadow: 0 0 10px #A6A6A6, 0 0 20px #A6A6A6, 0 0 30px #A6A6A6;
+}
+
+
+#description {
+    font-family: 'Jacquard 12';
+    font-size: 96px;
+}
+
+p {
+    font-family: 'Averia Sans Libre';
+    font-size: 36px;
+    color: #D9D9D9;
+    margin-top: 0px;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+html {
+    zoom: 75%;
+}
+
+body {
+    background-color: #756358;
+}
+
+#number-and-letter-glyphs p{
+    font-family: 'Jacquard 12';
+    font-size: 96px;
+    color: #D9D9D9;
+}
+
+li {
+    font-family: 'Averia Sans Libre';
+    font-size: 36px;
+    color: #D9D9D9;
+}
+
+h5 {
+    color: #9B8476;
+    font-family: 'Jacquard 12';
+    font-size: 156px;
+    padding:0px;
+}
+
+li {
+    list-style: none;
+    padding-left: 150px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+img {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+}
